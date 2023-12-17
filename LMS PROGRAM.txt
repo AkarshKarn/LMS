@@ -306,7 +306,7 @@ select * from FellowshipCandidate;
 INSERT INTO Mst_HiredCandidate 
 (FirstName, MiddleName, LastName, EmailId, HiredCity, Degree, HiredDate, MobileNumber, PermanentPincode, HiredLab, Attitude, CommunicationRemark, KnowledgeRemark, AggregateRemark, Status, CreatorUser) 
 VALUES 
-('Sushil', 'Kumar', 'Gupta', 'sushilgupta123@email.com', 'Bangalore', 'B.Tech', '2023-09-17', '6205806083', '400001', 'Lab3', 'Positive', 'Excellent communicator', 'Strong technical skills', 'Top-tech candidate', 'Accepted', 1),
+('Akarsh', 'Kumar', 'Karn', 'akarsh07@email.com', 'Patna', 'B.E', '2023-09-17', '9899917314', '400001', 'Lab3', 'Positive', 'Excellent orator', 'Strong technical skills', 'Top-tech candidate', 'Accepted', 1),
 ('Rakesh', 'Kumar', 'Pandey', 'rkp65@email.com', 'Delhi', 'B.E', '2023-02-10', '8765432109', '110001', 'Lab2', 'Positive', 'Great interpersonal skills', 'Deep technical knowledge', 'Exceptional performance', 'Accepted', 2),
 ('Amit', 'Kumar', 'Verma', 'amit.verma@email.com', 'Bangalore', 'B.E', '2023-03-15', '7890123456', '560001', 'Lab3', 'Positive', 'Effective communicator', 'Solid technical expertise', 'Outstanding profile', 'Pending', 1),
 ('Bikesh', '', 'Yadav', 'bikesh.yadav@email.com', 'Mumbai', 'B.Tech', '2023-04-20', '9876543210', '400001', 'Lab1', 'Positive', 'Clear and concise communication', 'In-depth knowledge', 'Impressive candidate', 'Pending', 1),
